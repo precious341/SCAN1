@@ -1,0 +1,6 @@
+{
+  "name": "MedScan",
+  "description": "Professional Medical Report Management and Understanding Platform. Understand Your Health. With Clarity.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
